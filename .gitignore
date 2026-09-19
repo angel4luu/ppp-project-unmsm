@@ -1,1 +1,4 @@
-.venv 
+.venv *.csv
+*.pkl
+data-final.csv
+*.csv
