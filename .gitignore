@@ -2,3 +2,4 @@
 *.pkl
 data-final.csv
 *.csv
+.venv
